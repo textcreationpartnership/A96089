@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perspicuous compendium of several irregularities and abuses in the present practice of the common laws of England· With several queries and proposals thereupon for regulation of laws, without the help of the legislative power, or new law made. By D.W. of the Mtddle-Temple [sic], barrister.</title>
+            <author>D. W.</author>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96089</idno><idno type="EEBO-CITATION">99863843</idno>
+  <idno type="VID">168414</idno>
+  <idno type="EEBO-PROQUEST">2248537979</idno>
+  
+            <idno type="STC">Wing W11</idno>
+            <idno type="STC">Thomason E892_1</idno>
+            <idno type="STC">ESTC R204157</idno>
+            <idno type="PROQUEST">99863843</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863843e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168414)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perspicuous compendium of several irregularities and abuses in the present practice of the common laws of England· With several queries and proposals thereupon for regulation of laws, without the help of the legislative power, or new law made. By D.W. of the Mtddle-Temple [sic], barrister.</title>
+                  <author>D. W.</author>
+               </titleStmt>
+               <extent>[8], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Lock for Hen. Flesher, and are to be sold at his shop at the signe of the thrre [sic] Cups in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Common law --  England --  Early works to 1800.</term>
+               <term type="topical_term">Law reform --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168414:1"/>
+            <p>A PERSPICUOUS COMPENDIUM OF SEVERAL Irregularities and Abuses IN <hi>The Present Practice</hi> OF THE Common Laws OF ENGLAND.</p>
+            <p>WITH Several <hi>Queries</hi> and <hi>Proposals</hi> thereupon for Regulation of <hi>Laws,</hi> without the help of the Legi<g ref="char:EOLhyphen"/>slative Power, or new Law made.</p>
+            <p>
+               <hi>By</hi> D.W. <hi>of the Middle. Temple, Barrister.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Lock</hi> for <hi>Hen. Flesher,</hi> and are to be sold at his Shop at the signe of the thrre Cups in <hi>Pauls Church<g ref="char:EOLhyphen"/>yard,</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168414:2"/>
+            <pb facs="tcp:168414:2"/>
+            <head>TO THE RIGHT HONORABLE Collonel <hi>William Sydenham,</hi> Captain Governor of the Isle of <hi>Wight,</hi> one of the Lords Commissioners of his Highness Treasury, and one of his Highness most Honorable Privy Counsel, and an Honorable Member of the present Parliament.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He serious considerati<g ref="char:EOLhyphen"/>on of that old Rule in <hi>Cicero, Non nobis nati sumus, sed partim pro patria, partim pro A<g ref="char:EOLhyphen"/>micis,</hi> prompts my de<g ref="char:EOLhyphen"/>fires to publike good, and summons me un<g ref="char:EOLhyphen"/>der your honourable <hi>Protection</hi> to expose to View this small <hi>Epi<g ref="char:EOLhyphen"/>tome or perspicuous Compendium of Irregularities</hi> in the present practice of the <hi>Laws</hi> of <hi>England,</hi> which are rudely and briefly propounded as an <hi>Essay</hi> to which men of greater Abilities and Experience, may facilely adde that which may make the Laws of England,
+<note place="margin">What the Law is.</note> under which (notwithstanding the Abuses interlo<g ref="char:EOLhyphen"/>ped) this Nation hath flourished in peace and hap<g ref="char:EOLhyphen"/>piness
+<pb facs="tcp:168414:3"/>so many ages, the most honorable and happy <hi>Nation</hi> under <hi>Heaven.</hi>
+               <note place="margin">
+                  <hi>Lex est commu<g ref="char:EOLhyphen"/>ne praeceptum, virorum pru<g ref="char:EOLhyphen"/>dentium consul<g ref="char:EOLhyphen"/>tum,</hi> &amp;c. Bract. lib. 1. f. 2. <hi>Lex est radius Divini Lumini<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp; Recta Ratio summi Iovis. Cicero</hi> in <hi>lib. de legibus. Summa Ratio</hi> Cook Inst. part. 1.</note> The Law it self in its purity is nothing less then the <hi>Perfection of Reason (Responsa pru<g ref="char:EOLhyphen"/>dentium</hi>) and <hi>consonant</hi> to the Law of <hi>God,</hi> grounded upon long experience, and so brought to perfection; <hi>per varies casus artem experientia fecit,</hi> and as <hi>Glanvile</hi> and <hi>Britton</hi> agree, <hi>Experience</hi> and <hi>many trials</hi> of <hi>what was best for the common good, did make the Common Law.</hi>
+            </p>
+            <p>The Laws of England now consist of three parts; 1. The Common Law, 2. Customary Law, and that diverse. 3. Statute Law, or Parliamentary Law; the scope of all (as <hi>Bracton</hi> saith) <hi>ut sopiantur Jurgia; &amp; vitia propulsentur, &amp; ut in regno conservetur Pax &amp; Ju<g ref="char:EOLhyphen"/>stitia.</hi>
+            </p>
+            <p>The most principal Precepts of the Law of God and of Nature, are <hi>Maxims</hi> and <hi>Topicks</hi> of the Laws of <hi>England;</hi> I shall touch but a few: 1. <hi>Deum Venerari.</hi> 2. <hi>Honeste vivere.</hi> 3. <hi>Patriae, Magistratibus &amp; Paren<g ref="char:EOLhyphen"/>tibus obedire.</hi> 4. <hi>Alteri ne facias quod tibi non vis fieri.</hi> 5. <hi>Tollere nocentes e<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dio propter servandum publicam salutem.</hi> 6. <hi>Suum cui{que} tribuere.</hi> 7. <hi>Proprietates possessio<g ref="char:EOLhyphen"/>nes rerum &amp; usum distinguere.</hi>
+            </p>
+            <p>And for the <hi>Rules of certainty,</hi> which makes every Science more honorable, the neerer to <hi>perfection;</hi> No humane learning subjected to argument hath more <hi>infallibilities</hi> in its <hi>Rules,</hi> more
+<note n="*" place="margin">
+                  <hi>Vide Glanvil, Britton, Cook,</hi> Lord Ch. Just. St. <hi>Iohns</hi> Speech in <hi>Parl.</hi> agree it.</note>
+               <hi>coherence</hi> in its <hi>Mem<g ref="char:EOLhyphen"/>brana,</hi> or more <hi>Harmonical Reason</hi> within its self, &amp; is so <hi>Connatural</hi> and <hi>essential</hi> to the <hi>Genius and innate dispo<g ref="char:EOLhyphen"/>sition</hi> of this Nation (being formed silk-worm like) as no other Law can <hi>possibly regulate it. En populus sa<g ref="char:EOLhyphen"/>piens, &amp; intelligens magna! Deut.</hi> 4.</p>
+            <pb facs="tcp:168414:3"/>
+            <p> This <hi>sacred</hi> Law is our <hi>best birth-right,</hi>
+               <note place="margin">Sir <hi>Iohn Davis</hi> Reports, and <hi>Finch</hi> Law. <hi>Cooks</hi> Preface to Part 5. <hi>Rep.</hi>
+               </note> a <hi>Rich Lega<g ref="char:EOLhyphen"/>cy</hi> to every <hi>English</hi> man, an <hi>invaluable jewel</hi> descend<g ref="char:EOLhyphen"/>ent from the <hi>bowels of Antiquity, bequeathed</hi> us by our <hi>Ancestors,</hi> and hath still been so entertained and em<g ref="char:EOLhyphen"/>braced.</p>
+            <p>Some Writers affirm that our Laws had their Progeny from <hi>William the Conqueror</hi> and some before him, from <hi>Alured, Alfred, Canatus</hi> and <hi>Edward the Confessor:</hi> True it is, those were the <hi>Promulgators</hi> of several good Laws for the present <hi>Government</hi> of the people, introduced part of their <hi>Languages,</hi> &amp; made some <hi>substantial alterations</hi> in <hi>Fundamentals</hi> (but more in <hi>Formulis Juris</hi>) as <hi>Insignia</hi> of their <hi>Conquests;</hi> but certainly our Law in its primitive institution is be<g ref="char:EOLhyphen"/>yond the <hi>Envy of time</hi> or the <hi>Pen</hi> of man to assert, un<g ref="char:EOLhyphen"/>less deduced from <hi>Moses</hi> the first <hi>Law-giver;</hi> but I shall decline this controversie, my age and time may ex<g ref="char:EOLhyphen"/>cuse me; onely give me leave to assume the person of our Common Law, and as <hi>Cicero in Lib. de Legibus</hi> derives the <hi>Roman Laws</hi> from the great God <hi>Jupiter,</hi> to say (as one who writ an <hi>Encomion</hi> of her Praises) <hi>When the Laws of God and Reason first came in, then came I in.</hi>
+            </p>
+            <p>The Law is the <hi>Palladium</hi> of <hi>security, peace,</hi>
+               <note place="margin">
+                  <hi>Author Iustitiae est Deus secun<g ref="char:EOLhyphen"/>dum quod justi<g ref="char:EOLhyphen"/>tia est in Crea<g ref="char:EOLhyphen"/>tore,</hi> Bracton, lib. 2. cap. 3.</note>
+               <hi>plenty</hi> and <hi>opulency,</hi> and they the fountain of sublunary feli<g ref="char:EOLhyphen"/>city, the Rule of Justice; she's the Queen of all Mo<g ref="char:EOLhyphen"/>ral Vertues, and Soul of the Common-wealth; with<g ref="char:EOLhyphen"/>out her silver-glyding streams, who knows how to Rule? or the people to obey? If her splendent Rayes be once eclipsed, we may mournfully condole with the Poet, and say, <hi>Terras Astraea reliquit.</hi>
+            </p>
+            <p>Without her support where are our Heroes and Nobles Honors? our common Subjects and free<g ref="char:EOLhyphen"/>born
+<pb facs="tcp:168414:4"/>English Liberties? Without her protection the Rich man cannot be exempted from spoil, nor the innocent Doves from oppression; neither Religious nor Moral, Vertuous or Vicious can enjoy his life or any thing to him dear or delightful; not the Usurer his Bags or Obligations, nor the Sensualist his pleasures but under her shade; without this Law and the due administration of Justice, there can be no commerce or Conversation amongst men, neither the Merchant can pass the Seas, nor the traveller the land, the Sol<g ref="char:EOLhyphen"/>dier be assured his acquired Possessions though with blood, nor transmit them to posterity, were not the Law his Sanctuary.</p>
+            <p>That Government which is hinged upon her Mar<g ref="char:EOLhyphen"/>ble Pillars is only happy; this Fortress protects the Widdow, the Fatherlesse, the Orphan, the Stranger, Religion, and Religion her: In a word, <hi>Major haere<g ref="char:EOLhyphen"/>ditas venit unicui{que} nostrum à jure &amp; Legibus quam à parentibus.</hi>
+               <note place="margin">
+                  <hi>Bracton</hi> in <hi>lib.</hi> 1 stiles the Laws of <hi>England</hi> the Judgments of the just. Levellers first sprung up in the Pontificate of <hi>Gregory</hi> the 7th the Vice-God of <hi>Rome,</hi> &amp; were then great disturbers of the Govern<g ref="char:EOLhyphen"/>ment, <hi>vid. Coun<g ref="char:EOLhyphen"/>cil of Trent. Erroris &amp; falsi<g ref="char:EOLhyphen"/>tatis ea est natu<g ref="char:EOLhyphen"/>ra ut nemine re<g ref="char:EOLhyphen"/>pugnante sensim per se ditabantur &amp; evanescant,</hi> Cook 5 cap.</note>
+            </p>
+            <p>Though this Law be so ancient, so just, so honora<g ref="char:EOLhyphen"/>ble, so certain, &amp; the Government thereby so absolute necessary, as without it all would return into a Cha<g ref="char:EOLhyphen"/>os of confusion, yet it hath some Enemies whose ha<g ref="char:EOLhyphen"/>tred is as ancient as their Names, as beings, as the dregs of the basest of the people, neither considerable for number nor worth, but of restless spirits, willing to imbroyle every where, dissatisfied with any form of Government, with any Laws, delight only in Novelties, pleased all in chan<g ref="char:EOLhyphen"/>ges, affected with no tenure but <hi>Gavel-kinde,</hi> yet bring many plausible and flashie Arguments (not worth confutation) to maintain their erroneous principle, not in the least convincing to any solid Rationalist,
+<pb facs="tcp:168414:4"/>but are like yong sophisters, who are wont to rail, and by that means to keep themselves from a Non-plus when they are not able to answer the Arguments for<g ref="char:EOLhyphen"/>ced against them.</p>
+            <p>We are all Judges of our own inconstancy, and have had sad experiences in our dayes, how often we disagree with our selves; what Repugnancies within us; how hurried and disprincipled with any thing that is new, and seldome without repentance, though of<g ref="char:EOLhyphen"/>ten too late: Every one becomes his own <hi>Phaëton:</hi> passion and affection so disorders and deprives Rea<g ref="char:EOLhyphen"/>son, that they rather seem <hi>Chimera's</hi> then Men; sure<g ref="char:EOLhyphen"/>ly then it's safer to trust laws then men. I cannot but conceive that he who would shake off the laws, will hardly be obliged by conscience.</p>
+            <p>I shall not proceed further to vindicate the Com<g ref="char:EOLhyphen"/>mon Law, or add to her <hi>Encomions,</hi> its Mysteries are not now lock'd up in <hi>Hierogliphicks</hi> in <hi>Saxon</hi> and <hi>Nor<g ref="char:EOLhyphen"/>man</hi> language, most of it by the prudence of our Grandees displayed significantly in our Native lan<g ref="char:EOLhyphen"/>guage, &amp; is sufficiently able to plead for it self (if per<g ref="char:EOLhyphen"/>mitted.) I need not mention the wisdom and care our Parliaments in all ages have had to preserve its honor and innocencie; nor the indefatigable pains and vigi<g ref="char:EOLhyphen"/>lant care taken for its due preservation and reformati<g ref="char:EOLhyphen"/>on by his imperial Highness the Lord Protector, from whose Fountain of Justice all streams are conveyed to the subject, like the Sun who spreads light and ver<g ref="char:EOLhyphen"/>tue to all the creatures.</p>
+            <p>If I should endeavor to minde your Lordship the reverend Estimation Acts of Justice have always had, how preserved to posterity in his Highness treasury as royal Jewels, &amp; stil reputed no small part of Princely
+<pb facs="tcp:168414:5"/>treasure, I must exceed the limits of an Epistle; the porch would be bigger then the house; and therefore must conclude, but yet cannot without ingratitude forget your Lordships care and vigilancie on all occa<g ref="char:EOLhyphen"/>sions of the publike good and welfare of the Com<g ref="char:EOLhyphen"/>monwealth, and therein of your own Countrey; how highly is that person to be honored whose true merits hath advanced him to transcendent places of honor? the greatest honor is due to the greatest Vertues; your prudence and abilities in Councels, your valour and magnanimity in the Field, and that which crowns all, your piety and zeal for the Gospels honor, hath just<g ref="char:EOLhyphen"/>ly instamped an <hi>Honorarium</hi> on your person, with an augmentation to your posterity; I humbly beg your honors pardon for my prolixity in detaining you from the publique, &amp; beseech your patronage for this small Treatise being the first Fruits of my labor, and there<g ref="char:EOLhyphen"/>fore in duty a proper Oblation to your Lordship, which being cherished by your favor, may find recep<g ref="char:EOLhyphen"/>tion from others, and be some wayes useful in this Juncture of Affairs, to the great &amp; honorable Senate in the present great VVork of Reformation; which is the hearty desires of him that is ambitious of nothing more then to be his Highness and your Honors in the service of the Common-wealth</p>
+            <closer>
+               <signed>
+                  <hi>Most faithful devoted humble Servant</hi> D.W.</signed>
+               <dateline>
+                  <hi>From my Chamber in the Mid<g ref="char:EOLhyphen"/>dle Temple,</hi>
+                  <date>Nov. 3. 2656.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="compendium">
+            <pb n="1" facs="tcp:168414:5"/>
+            <head>A COMPENDIUM OF Abuses in the practice of the COMMON LAWS OF <hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is to be admired how the Lawes of England under which England hath flouri<g ref="char:EOLhyphen"/>shed so many ages, the main<g ref="char:EOLhyphen"/>tenance whereof hath cost so much blood, and which have been confirmed by so many successive Parliaments with a peremptory <hi>Nolimus mutare</hi> should in this Age and Juncture of time and Affairs, fall into so great Reproach as they lie under. In searching into the Causes I conceive although the Spirit of levelling, and the desire men have to live as
+<pb n="2" facs="tcp:168414:6"/>they list, without any restraint by the Laws of God or men, may have a great influence into that deep di<g ref="char:EOLhyphen"/>staste that is cast upon them; yet it must be some o<g ref="char:EOLhyphen"/>ther cause that moves men of consciencious and sober mindes to take offence thereat.</p>
+            <p>And therefore it is very considerable whether something be not crept into the practice of the laws of England by the corruption of men, which was not in the Original Foundation thereof; which may just<g ref="char:EOLhyphen"/>ly provoke God to lay the Practicers low, and their Profession open to reproach and contempt.</p>
+            <p>And if the Foundation of Actions in any Court be laid in a lye,
+<note place="margin">Foundations of Actions laid in alye.</note> or if the proceedings thereupon be manifestly false and feigned, how can any man expect a Blessing from God therein? And how can any man with comfort be an Instrument in such a Suit?</p>
+            <p>For instance in the Court of Common-Pleas, so called,
+<note place="margin">Common Pleas.</note> in respect of the Common-Pleas there holden, which anciently consisted most in real Actions,
+<note place="margin">Practice of the Court.</note> and is styled by my <hi>Lord Cook</hi> the <hi>Lock and Key of the Com<g ref="char:EOLhyphen"/>mon Law.</hi> No Action can be ordinarily, but by Origi<g ref="char:EOLhyphen"/>nal Writ of the Chancery, which is in the nature of a Summons, and directed to the Sheriff, whereby the Defendant should have notice of the Action and particular cause thereof; and this must bear date 15. dayes before any other Process can issue: And if the Sheriff return a <hi>Nihil,</hi> then a <hi>Capias,</hi> &amp; <hi>Alias</hi> &amp; <hi>Plures</hi> are to be awarded each to bear Date 15. dayes after the other; and if the Sheriff upon each of these return a <hi>Non est inventus,</hi> then to proceed to outlawry, that so his Estate may be seised to cause appearance to the action, and to prove all these necessary. Upon a
+<pb n="3" facs="tcp:168414:6"/>Writ of Error all these are returned as if they were directly awarded, returned and filed; and if any be wanting or misreturned, the Plaintiff is overthrown in his Suit.</p>
+            <p>Yet to elude this just Court, the Plaintiffs Attor<g ref="char:EOLhyphen"/>ney takes out a <hi>Capias, Alias, Plures</hi> and <hi>Exigent,</hi> and proceeds either to get the Defendant arrested, or else outlawed; and at the return of the Process takes out an original Writ, which he returns himself in the Sheriffs Name; and also returns the <hi>Capias, Alias</hi> and <hi>Plures</hi> in his Chamber or elsewhere in the Sheriffes name, whereas the Sheriff nor his Deputy never heard of them, and then files them as if duly awarded and returned.</p>
+            <p>By which means,</p>
+            <p n="1">1.
+<note place="margin">Abuses.</note> The great <hi>Seal of England</hi> is abused and an<g ref="char:EOLhyphen"/>tidated.</p>
+            <p n="2">2. The Courts of Judicature (where proceedings should be all in Truth, Righteousness and Judge<g ref="char:EOLhyphen"/>ment) abused.</p>
+            <p n="3">3. The Sheriffs (who are sworn Officers and lie under an Oath, duely to execute and return the Process of Law) are injured and endangered by false Returns in their Names.</p>
+            <p n="4">4. And lastly: The Defendant much wronged, and the Plaintiffs neither disburthened in Charge nor ex<g ref="char:EOLhyphen"/>pedited in their suits, but all done for the Attorneys, Clerks and Soliciters gains.</p>
+            <p>The Upper-Bench (which may proceed by way of Original Writ out of the Chancery,
+<note place="margin">Upper Bench proceedings.</note> as doth the Common-Pleas) have a shorter way. An Attorney takes out a Bill of <hi>Middlesex,</hi> and by colour of this may arrest any man in <hi>Middlesex</hi> upon an action of
+<pb n="4" facs="tcp:168414:7"/>Trespass; and then declare at Term (upon a pretence that the Defendant is in custody of the Marshal) upon any action whatsoever; and if he be not arrest<g ref="char:EOLhyphen"/>ed in the Bill of <hi>Middlesex,</hi> but is to be found in a for<g ref="char:EOLhyphen"/>raigne county, then that is a ground to take out a <hi>Lati<g ref="char:EOLhyphen"/>tat</hi> upon pretence that the Sheriff of <hi>Middlesex</hi> re<g ref="char:EOLhyphen"/>turns that the Defendant lurks and hides himself in the county of <hi>York,</hi> &amp;c.</p>
+            <p>In order to the regulation of the Laws it is humbly submitted to consideration.
+<note place="margin">Proposals for Regulation. Questions pre<g ref="char:EOLhyphen"/>mised. <hi>Cook</hi> in his Pre<g ref="char:EOLhyphen"/>face to the 8. Part Rep. saith it is conveni<g ref="char:EOLhyphen"/>ent for the Common-wealth that there be an and of Suits &amp; controversies.</note>
+            </p>
+            <p n="1">1. Whether it be for the interest of the Common-wealth to encourage suits in the Courts of Law or E<g ref="char:EOLhyphen"/>quity, which is the rather propounded in regard it appeareth that two parts in three, if not more, of the multitudes of suits began in these Courts are either false &amp; groundless, or else so frivilous &amp; trivial that it is the shame of the Law that the Courts of Justice (the glory of a Nation) should be troubled with them.</p>
+            <p n="2">2. Whether it be for the Honor and Majesty of the courts of Justice and Judgement, that any Basis of Law or foundation of suits should be laid in a lye or false pretence.</p>
+            <p n="3">3. Whether it be fit or soundly rational that it should be in the power of any man to molest another in a court of Justice in any cause wherein provision is not made for full recompence to the Defendant in case the suit appear vexatious and unjust.</p>
+            <p n="4">4. Whether the reducing the courts of Judicature to their primary institution (these things premised)
+<pb n="5" facs="tcp:168414:7"/>and tying the practicers to the Original Rules might not go very far in the regulation of the Law.
+<note place="margin">Practice of Courts.</note>
+            </p>
+            <p>The main Bulk of actions at this day at the com<g ref="char:EOLhyphen"/>mon Law are debt, trespass, trespass upon the case, upon promise; trover, and conversion, and slander; these are called common pleas, &amp; originally cryable onely in the court of common pleas, by Original Writ out of the chancery, which is in nature of a Summons, and by Law ought to precede any <hi>Capias</hi> (though seldom practiced) or other process out of the court of common pleas; but yet the court of the Upper-Bench, and also the chancery have had a con<g ref="char:EOLhyphen"/>current power with the common pleas to hold pleas of the like causes in particular cases: the said Origi<g ref="char:EOLhyphen"/>nal in chancery expresses the particular cause of acti<g ref="char:EOLhyphen"/>on that the Plaintiff had against the Defendant;
+<note place="margin">Original in Chancery.</note> and if it did appeare that the Debt or Damage were above 40. l. then a Fine was payable to the crown upon the taking out of that Writ, and the said Ori<g ref="char:EOLhyphen"/>ginal VVrit was directed to the Sheriff of the county where the Defendant lived, commanding the sheriff that if the Plaintiff did give him security to prose<g ref="char:EOLhyphen"/>cute the said suit,
+<note place="margin">Summons.</note> then the sheriff should summon the Defendant by good summons to appear in the court of common pleas at a day appointed by the said writ (which must be 15.
+<note place="margin">Test of the Writ.</note> dayes after the <hi>Test</hi>) to answer the said suit: this writ ought to be delivered to the said sherif, who ought to make a return thereof be fore any <hi>Capias</hi> ought to be awarded out of the common pleas, and so no arrest could be made of the body of the Defendant without those preceeding circumstances:
+<note place="margin">Upper-Bench practice.</note> whereas in the practice of the upper Bench there was no more required but the taking out
+<pb n="6" facs="tcp:168414:8"/>of a <hi>Latitat</hi> grounded upon a false suggestion (a lye upon Record) that upon a return of a Bill of <hi>Mid<g ref="char:EOLhyphen"/>dlesex</hi> awarded against the same Defendant,
+<note place="margin">Substance of the Writ of <hi>Lat.</hi>
+               </note> that the Defendant did lurk and hide himself in that county into which the <hi>Latitat</hi> was awarded, and thereupon <hi>commanding the Sheriff to take the body of the Defendant to answer to the Plaintiff in a Plea of a trespass,</hi> where<g ref="char:EOLhyphen"/>upon the Defendant might instantly be arrested without any notice formerly given him of any cause of action, and at the return of the VVrit the plaintif may declare against him, either for a trespass, or for a Debt of 1000. l. or any other the actions before mentioned; and upon pretence that the Defendant is in the custody of the Marshal, he was lyable to answer to all other Actions, whereupon any declara<g ref="char:EOLhyphen"/>tion should be filed against him in that court in the same term of his appearance; and all this without any Fine to be paid to the crown until the issue joyned.</p>
+            <p>The Officers,
+<note place="margin">The contri<g ref="char:EOLhyphen"/>vance of the common pleas to prevent the greatness of practice in the Upper Bench.</note> Practicers and Attorneys of the common Pleas finding the great advantage the Upper-Bench had of them in the hastie prosecution of the causes, and that thereby the most part of the Grise was gone from their Mill, they also cast about how they might elude the ancient and legal course of that court; and instead of taking out an Original 15. days before the <hi>Capias,</hi> &amp; giving good security to prosecute the suit, and instead of giving summons or notice to the defendant of such action against him by the space of 15. dayes before the <hi>Capias,</hi> they would take out a <hi>Capias</hi> to arrest the defendant Immediately and it may be <hi>Alias</hi> and <hi>Plures,</hi> and then at the begin<g ref="char:EOLhyphen"/>ing of the next term after arrest, they would file
+<pb n="7" facs="tcp:168414:8"/>an original: and lately also upon pretence that they were too straightly bound up by laying the true cause of action in the Original they grown of late, to file an Original in a trespass of <hi>Clausum fregit,</hi> &amp; afterwards declare upon the right cause of action, and then file a new Original accordingly; and by these means, and by the practice of both these Courts; the ancient and good intention of the Law,
+<note place="margin">To be remedy<g ref="char:EOLhyphen"/>ed without <hi>Le<g ref="char:EOLhyphen"/>gislative power</hi> or new Law.</note>
+               <hi>That no man should be sued at Law without notice before hand what action would be brought against him is abused:</hi> All which may well be remedied by the Judges, without any help of the <hi>Legislative Power</hi> or new Lavv made.</p>
+            <p>The present practice in the common Pleas hath these irregularities:
+<note place="margin">Irregularities in the Com<g ref="char:EOLhyphen"/>mon Pleas.</note>
+            </p>
+            <p n="1">1. The Original under the great Seal is antidated, being sealed in October, and dated in May or June before.</p>
+            <p n="2">2. The Sheriff is pretended to return either that he hath summoned the defendant by good summons, and namely <hi>John Doe,</hi> and <hi>Richard Roe;</hi> or else that perhaps the Defendant being of 1000. l. land <hi>per ann.</hi> either <hi>Nihil habet,</hi> or <hi>Non est inventus,</hi> and the Sherifs hand set to it, where in truth the Writ was never brought to him or any of his Officers, nor did they ever hear of it.</p>
+            <p n="3">3. The <hi>Capias</hi> is awarde before the Original,
+<note place="margin">Form of pro<g ref="char:EOLhyphen"/>ceedings.</note> and for the most part into some forreigne county, and then returned in the Name of the Sherif, who never heard of it; and so the <hi>Alias,</hi> and the <hi>Plures,</hi> and then the <hi>Exigent</hi> and all into counties where the De<g ref="char:EOLhyphen"/>fendant never hears of them, and to salve it a Pro<g ref="char:EOLhyphen"/>clamation
+<pb n="8" facs="tcp:168414:9"/>awarded into the county where the defen<g ref="char:EOLhyphen"/>dant lives; and all these returned to be duely executed when never a one of them is ever proclaimed, or any notice given to the defendant till hee be returned outlawed. And all this done by false returns and pretences, which is humbly conceived to be dishono<g ref="char:EOLhyphen"/>rable to the Law, and unfit to be practised by Chri<g ref="char:EOLhyphen"/>stians, who ought (especially in matters of Judica<g ref="char:EOLhyphen"/>ture) to do all in truth, righteousness and Judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The present irregularities in the proceeding of the Upper Bench are briefly touched before,
+<note place="margin">Upper Bench Abuses.</note> whereby it appears the foundation is laid on false sugge<g ref="char:EOLhyphen"/>stions and pretences, which it is questionable how any blessing can be expected on such a Foundation.</p>
+            <p>For remedy of all which;
+<note place="margin">Remedies pro<g ref="char:EOLhyphen"/>posed.</note>
+            </p>
+            <p>VVhy should not this Rule be set to all Courts, that no processe of arrest should issue till summons awarded and endeavoured to be executed (as it is in Chancery by <hi>Subpoena</hi>) and so the useless VVrits of <hi>Alias</hi> &amp; <hi>Plures</hi> which stands the subject in thousands of pounds annually (if not the <hi>Capias</hi> and <hi>Exigent</hi> too) be wholly taken away.</p>
+            <p>It will be objected, that if men have summons before, they will hide themselves, or go out of the land before arrest.</p>
+            <p>To which it is answered, 1. There are few in danger of arrests but know their danger without a summons. 2. 'Tis possible some inconveniences may be this way, but not comparable to the inconveniences that come by the malicious arresting men oftentimes to their ruin, without any notice beforegiven. 3. But if in truth any real danger should be of going over seas, the law
+<pb n="9" facs="tcp:168414:9"/>hath provided a <hi>Ne exeat Regnum,</hi> which upon oath of a just debt and real fear of withdrawing may be granted caution being taken, to satisfie the defendants damage if he be wrongfully stopped.</p>
+            <p n="2">2.
+<note place="margin">It is an abuse that Writs are close and not Pattents, <hi>vide Mirror, cap.</hi> 59.</note> VVhy should not every processe bear teste the very day on which it is sealed, and to be open to pre<g ref="char:EOLhyphen"/>vent mistakes which are often the dangerous delay, if not loss of many suits in the countreys.</p>
+            <p n="3">3. VVhy should any but the Sherif return the writs directed to him, and to avoid untrue returns, to be lyable to answer every false Return by pecuniary punishment, as well to his Highness whose Justice is thereby abused and delayed, as to the party agrieved and damnified.</p>
+            <p>As for the Chancery it's well provided already that no <hi>Subpoena</hi> shall issue till a Bill filed.
+<note place="margin">Chancery.</note>
+            </p>
+            <p n="1">1. But first,
+<note place="margin">Remedies proposed.</note> why should any man draw me to an<g ref="char:EOLhyphen"/>swer there upon my Oath to what he knows to be falsly suggested: and why should not the Plaintif be tyed to swear the contents of his bill to be true, as well as the defendant swears to the contents of his answer: and why should so many suggestions and multitudes of known falsities be inserted in Chance<g ref="char:EOLhyphen"/>ry Bills.</p>
+            <p>This would prevent the greatest part of Chancery suits, and the prolixity and tediousness of the rest.</p>
+            <p n="2">2. VVhy should any suit be there for moneys due upon specialty, the Common Law being the proper place to try them? this course being there taken, that whereas now at Law upon a bond the Jury finde the debt &amp; damages &amp; costs, they might find the debt not as now they do, the whole forfeiture of the bond, but the true debt now remaining justly due, and for da<g ref="char:EOLhyphen"/>mages
+<pb n="10" facs="tcp:168414:10"/>what the Plaintiff is justly damnified by non<g ref="char:EOLhyphen"/>payment thereof, and the true costs expended in the cause, and then proved upon oath.</p>
+            <p>As for Bills of discoveries of fraud, why should the Plaintif suggest any thing which he dares not swear that he believes, or hath just cause to suspect to be as is alledged.</p>
+            <p>To all these may be added a few Queries, some of which are summarily hinted already.</p>
+            <p n="1">1.
+<note place="margin">Queries added.</note> Whether we may not justly conclude, that all the reproach and contempt that is fallen upon the Laws of this Nation, ariseth from this ground, that there are so many falshoods and pretences in the whole processe of the suits?</p>
+            <p n="2">2. VVether it be not to be lamented, that men should dare to affirm that to the face of a Judge up<g ref="char:EOLhyphen"/>on the bench (a God upon earth) which he dares not affirm to the God of Heaven.</p>
+            <p n="3">3. VVhy should any Process issue out of any Court at Common Law until the Plaintif have made Oath in that Court, that he hath just cause of such Action in that case, <hi>viz.</hi> that the debt or duty in de<g ref="char:EOLhyphen"/>mand is justy due to him, or that he is justly damni<g ref="char:EOLhyphen"/>fied to such a value in that case, and why?</p>
+            <p n="4">4. VVhy should any original Process issue out of any Court of Common Law, but that therein the par<g ref="char:EOLhyphen"/>ticular debt or other cause of the Action be expres<g ref="char:EOLhyphen"/>sed in the writ?</p>
+            <p n="5">
+               <pb n="11" facs="tcp:168414:10"/> 5. Why should any person, appearing upon any such writ, be compelled to answer to any other action then that so contained in the writ, and not to that un<g ref="char:EOLhyphen"/>til Recognizance (as in Chancery) entred with good sureties to pay full damages and costs to the party un<g ref="char:EOLhyphen"/>justly grieved.</p>
+            <p n="6">6.
+<note place="margin">Nulli vendemus nulli negamus aut differrimus justitiam Mag na Charta.</note> VVhy should not all superfluous and unjust de<g ref="char:EOLhyphen"/>lays in suits be cut off or lopped close (in this time of Reformation) and all feigned delatorie curious plea<g ref="char:EOLhyphen"/>dings, the admittance whereof of late times hath been a great cause why real actions, special writs of assise (Originals of highest esteem in our antient Common Law) have not been so frequently practised in England, as they have been?</p>
+            <p n="7">7.
+<note place="margin">
+                  <hi>Cook</hi> Preface to part 8. Rep. <hi>Ejectione firme.</hi>
+               </note> Why should such multitudes of suits in perso<g ref="char:EOLhyphen"/>nal actions, especially wherein the reallity of free<g ref="char:EOLhyphen"/>hold and inheritance are now tryable by writ of <hi>eje<g ref="char:EOLhyphen"/>ctione firme</hi> to the intollerable charge and endless vex<g ref="char:EOLhyphen"/>ation of the people, be countenanced or permit<g ref="char:EOLhyphen"/>ted?</p>
+            <p>The too frequent use of this course occasions such multiplicity of suits as we see daily in one and the same cause to the unjust slander of the common Law,
+<note place="margin">Reasons and inconvenien<g ref="char:EOLhyphen"/>ces.</note> and intollerable hinderance of the people, wherein there are (by this new way, which is no other then an innovation or device of <hi>late Practice</hi>) divers verdicts of the on side, and divers on the other, &amp; yet the Plain<g ref="char:EOLhyphen"/>tif nor Defendant can come to no finalend, nor hold the possession in quiet, though it be oftentimes tried &amp; adjudged for either party, through the litigiousness of the parties, or imprudence sometimes of Juries,
+<pb n="12" facs="tcp:168414:11"/>and the encouragement of the Attorneys or Solici<g ref="char:EOLhyphen"/>tors on either side.
+<note place="margin">Proposals for remedy. Writs of Assise &amp; real Actions restored.</note>
+            </p>
+            <p>This might be much remedied if the good old use of Writs of Assise and real Actions were restored to their antient course and practise, there would not then be above two tryals, or three at the most; and after one Recovery the Possession resteth quiet.</p>
+            <p>But yet it may be objected,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> that the restoring of this ancient course in the Common Law by writs of Assise, and real actions tends to delay, and takes up more time then the present course in practice ad<g ref="char:EOLhyphen"/>mits.
+<label type="milestone">
+                  <seg type="milestoneunit">Resp. </seg>
+               </label> To which it is answered, Real actions for Free<g ref="char:EOLhyphen"/>hold and Inheritance being of a higher and worthi<g ref="char:EOLhyphen"/>er nature, and standing upon greater variety of titles and differences in the law, then personal (as the weight of the cause requireth: do challenge longer time in the proceedings then personal, but yet are not over long, nor without iust cause (in deliberations (saith <hi>Fortescue, cap.</hi> 53.) <hi>Judgements grow to ripeness, but in over hasty process never</hi>) and the demandant shall come to a timely final end by these real actions which he shall never do in personals, for the tryal of Free-hold and Inheritance,
+<note place="margin">
+                  <hi>Cook</hi> Reports 8</note> and indeed, few or no per<g ref="char:EOLhyphen"/>sonal actions of this nature, as hath been observed by my Lord <hi>Cook,</hi> or to be found in the Reports of <hi>Edward the third,</hi> and were not much in use till of late yeers.</p>
+            <p>I could wish care were taken to prevent those Le<g ref="char:EOLhyphen"/>gions of actions of the case for words,
+<note place="margin">Actions for slander com<g ref="char:EOLhyphen"/>plained of.</note> vulgarly cal<g ref="char:EOLhyphen"/>led <hi>Actions for Slander,</hi> but rather <hi>Actions of Malice;</hi> his Highness Ordinance of 29. <hi>Iune,</hi> 1654. against Challenges, Duels and Provocations thereunto, well provides remedy, but yet not sufficient to restrain the
+<pb n="13" facs="tcp:168414:11"/>swarms of suits occasioned by contentious spirits, such actions were rare heretofore,
+<note place="margin">Allowed only for words of eminent slan<g ref="char:EOLhyphen"/>der and great importance.</note> and such onely were brought as were for words of eminent slander, and of great importance; for calling a one Traitor, Felon and Robber, or the like. In our books none appears to be brought for scandalous words before <hi>Edward</hi> the thirds time, and then not above one in 50. yeers of his reigne: but three in 22. yeers of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the fourth: and not one of this nature in the 21. yeers of <hi>H.</hi> the seventh: but five actions for sland<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r brought in 30. yeers of <hi>H.</hi> the eighth; but now at least two parts of all our Reports are stuffed with them. They began in the Queens time,
+<note place="margin">A Proposal.</note> &amp; in these our times are beyond number, Its conceived for the interest of the Nation, that the malice of men should be with<g ref="char:EOLhyphen"/>stood; therefore though the tongues of men are set on fire, why should the Law blow the coles.</p>
+            <p>For remedy hereof it is proposed,</p>
+            <p n="1">1. That words onely of brangle, heat and choller,
+<note place="margin">Remed.</note> might not be as much as mentioned in the high &amp; ho<g ref="char:EOLhyphen"/>norable Courts of Justice, being a great dishonor to the law and the professors thereof, tending much to the disturbance of the publike peace, and as one saith, seems utterly unlawful amongst christians; but yet I am not against all actions forwords neither, where life, livelyhood or reputation, in its principal accep<g ref="char:EOLhyphen"/>tation, is endangered; but therein full compensation should be enjoyned.</p>
+            <p n="2">2. If such words should be thought fit to be con<g ref="char:EOLhyphen"/>tinued actionable; why should Juries give such high
+<pb n="14" facs="tcp:168414:12"/>damages? Let them on such actions respect more their oaths, &amp; the good of their own consciences, then they have used to do, and no more give damages, without fear or wit, most according to the reputation of the Plaintiff, too often to the utter undoing of the defendant, when in truth the plaintif was not two pence really damnified by such words.</p>
+            <p n="3">3. VVhy should not the plaintif therefore be put to prove his real or actual damnification, &amp; to make that appear upon Oath, and the Jury be directed to fine no more, nor the plaintif to recover no more.</p>
+            <p>It is humbly conceived worthy the considerations of the supreme authority of the Nation.
+<note place="margin">Indictments quashed com<g ref="char:EOLhyphen"/>plained of.</note>
+            </p>
+            <p>How many Indictments removed by <hi>Certiori,</hi> or writs of Error into the Upper bench, or every term quashed for Error, found in the indictment through the ignorance or negligence of the Clarks of the peace or their Deputies in every county, to the great pervertion and dishonor of Justice, and no mean encouragement of offenders.</p>
+            <p n="2">2.
+<note place="margin">Actions real and personal, &amp; verdict for fault in issue or Record, or matter of form or other erro<g ref="char:EOLhyphen"/>neous procee<g ref="char:EOLhyphen"/>dings stayed or reversed.</note> How many actions real and persononal within one yeer, are with no little expence of time, money and hazard of Estate, nay health, if not life it self prosecuted, and at length when come even to the Ha<g ref="char:EOLhyphen"/>ven of Repose, when the Plaintif hopes for the Harvest of all his care and charge, cast away or made fruitless by the ignorance or dishonesty of the Attor<g ref="char:EOLhyphen"/>ney or Clerk in the cause, verdict being for some fault in the issue or Record, want of form, or some other erroneous procedings qualified, or Judgement stayed or reversed, and to all invalled.</p>
+            <pb n="15" facs="tcp:168414:12"/>
+            <p> To prevent this dishonor to the Nation,
+<note place="margin">Remedies pro<g ref="char:EOLhyphen"/>posed.</note> this detri<g ref="char:EOLhyphen"/>ment to the people, and great discouragement to Ju<g ref="char:EOLhyphen"/>stice, it is humbly proposed;</p>
+            <p n="1">1. Why should not the numberless number of At<g ref="char:EOLhyphen"/>torneys, Soliciters and Clerks be reduced, and those onely that are knownly honest, able and experienced be admitted to practice, and of them but a certain number.</p>
+            <p n="2">2. Why should not the reverend Iudges of the Upper-bench be impowred upon quashing any such Indictment to impose a high Fine upon (if not dis<g ref="char:EOLhyphen"/>place) such Clerk of the peace, or other Officer that framed the said Indictment, at the same time such Indictment is quashed, and care be taken for speedy answering thereof duly to his Highness Treasury, without any Appeal or Mitigation.</p>
+            <p n="3">3. Why should not the Attorney, Solicitor or Clerk respectively, who hath the management of the cause, so destroyed by his, or their negligence, igno<g ref="char:EOLhyphen"/>rance or dishonesty, be lyable to a pecuniary punish<g ref="char:EOLhyphen"/>ment to the party proportionable to his loss and da<g ref="char:EOLhyphen"/>mage thereby, and that to be set by the Court at th<g ref="char:EOLhyphen"/>same time such Verdict or Judgment shall be quashe<g ref="char:EOLunhyphen"/>ed or reversed, &amp; to be speedily levyed, without sor<g ref="char:EOLhyphen"/>cing the party injured thereby to his action on the case, which though the Law allows, is seldom adven<g ref="char:EOLunhyphen"/>tured on, or practised against men of that profession, and also to stand committed for the abuse and disho<g ref="char:EOLhyphen"/>nor to the Court.</p>
+            <pb n="16" facs="tcp:168414:13"/>
+            <p> Why should <hi>Prisoners,</hi>
+               <note place="margin">Complaints a<g ref="char:EOLhyphen"/>gainst Fees &amp; charges paid by Prisoners.</note> or others for them, pay any thing for ther <hi>Entries</hi> in <hi>Goals</hi> and <hi>Prisons,</hi> or for their coming in, or discharge at <hi>Sessions,</hi> this is a great dis<g ref="char:EOLhyphen"/>honor to <hi>Justice,</hi> an <hi>oppression</hi> to the poor, and an <hi>an<g ref="char:EOLhyphen"/>tient abuse</hi> of the <hi>Common Law,</hi> and complained of in the <hi>Mirror,</hi> 231.</p>
+            <p>It is a received Rule,
+<note place="margin">
+                  <hi>Cook lib.</hi> 4. An abuse in acts of Parliament complained of.</note>
+               <hi>That Laws cannot be Just unless certain;</hi> that is (saith the Lord <hi>Cook</hi>) the <hi>best Law that leaves least to the Arbitrariness of the Iudge;</hi> this is con<g ref="char:EOLhyphen"/>ceived to be the unhappiness in penning some late <hi>Acts and Ordinances of Parliament,</hi> and <hi>Commissions</hi> for transactions of <hi>Publike Affairs,</hi> in which liberty is too much given to do according to Equitie; if this be con<g ref="char:EOLhyphen"/>tinued (saith one) we shall have nothing but <hi>Equity left;</hi> this <hi>aequam &amp; bonum</hi> is said to be in plain terms nothing else but an <hi>absolute and arbitrary power to judge and interpret according to every mans conscience,</hi> which is too frequent as different as their Opinions, the most of men concurring in nothing less then certain<g ref="char:EOLhyphen"/>ty, <hi>quot homines, tot sententiae.</hi> This made the <hi>Savoni<g ref="char:EOLhyphen"/>ans</hi> (finding therein no Justice, and groaning under the burthen) petition their King (whose Magistrates were substituted to give Judgement according to E<g ref="char:EOLhyphen"/>quity) that their Magistrates might no more give Judgement according to Equity. The great <hi>Enormi<g ref="char:EOLhyphen"/>ties</hi> and horrid <hi>Exactions</hi> upon the people by <hi>Empson</hi> and <hi>Dudley,</hi> may not without reason be imputed to the <hi>Statute</hi> of <hi>H.</hi>
+               <note place="margin">11 <hi>H.</hi> 7. cap. 3.</note> the 7th. <hi>Authorising them to hear of<g ref="char:EOLhyphen"/>fences committed against penal Statutes according to dis<g ref="char:EOLhyphen"/>cretion</hi> (not according to the Lawes and Customes of England) whereupon the Lord <hi>Cook</hi> caveats Parlia<g ref="char:EOLhyphen"/>ments to <hi>be sure to leave all causes measured by the golden and streight metwand of the Law,</hi>
+               <note place="margin">
+                  <hi>Cook</hi> 4. <hi>part Iust.</hi> 41.</note>
+               <hi>and not by the incertain and crooked cord of discretion.</hi>
+            </p>
+            <pb n="17" facs="tcp:168414:13"/>
+            <p> Its a great <hi>Complaint,</hi>
+               <note place="margin">Proposals for restoring the antient course of proclaim<g ref="char:EOLhyphen"/>ing acts &amp; or<g ref="char:EOLhyphen"/>dinances of Parliament.</note> or rather an <hi>Excuse</hi> taken up by offenders, and such as feel the <hi>execution of penal Laws,</hi> that they did not know the Fact committed by them to be an offence against Law; that they never heard of any such Act of Parliament, Ordinance or Law upon which they are convicted or questioned, if they had, they should have been more careful, and avoided the transgression.</p>
+            <p>Now to leave such without excuse, and prevent others that through ignorance, or otherwise fall un<g ref="char:EOLhyphen"/>der the stroke of such Law <hi>(preventing Justice being conceived the best)</hi> its proposed that the antient course of <hi>proclaiming</hi> Acts of <hi>Parliament</hi> by the Sheriffe of each County may be evinced.</p>
+            <p>Antiently at <hi>every Parliament the Acts that passed were to be transcribed in Parchment,</hi>
+               <note place="margin">
+                  <hi>Cook</hi> 4. <hi>p. Inst. f.</hi> 26.</note> and by Writs <hi>directed to the respective Sheriffs,</hi> and <hi>commandment given them, that all the said Statutes shall be proclaimed,</hi> and be firm<g ref="char:EOLhyphen"/>ly observed and kept; and be <hi>proclaimed at County Courts,</hi> and <hi>transcripts</hi> made for any to read, and take Copies of them.</p>
+            <p>Some object,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> that this course was frequently used onely before printing, which was first in <hi>Germany</hi> in <hi>an<g ref="char:EOLhyphen"/>no</hi> 1441. &amp; here in <hi>H.</hi> the 6. time; but certainly the use of <hi>proclaiming acts was long before</hi> that time, as appears in the <hi>Mirror.</hi>
+            </p>
+            <p>Others object,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> that the Parliament being the <hi>Repre<g ref="char:EOLhyphen"/>sentee</hi> of the people, the whole Nation is by their act bound (as a man by the act of his Trustee) and there<g ref="char:EOLhyphen"/>fore why should Proclamation be made in the Coun<g ref="char:EOLhyphen"/>ty, <hi>every man being obliged to take notice of that which is done in Parliament.</hi> 'Tis true, as soon as Parliaments have made any thing, the Law intends that every per<g ref="char:EOLhyphen"/>son
+<pb n="18" facs="tcp:168414:14"/>hath notice thereof, for that they <hi>represent the bo<g ref="char:EOLhyphen"/>dy of the whole Nation;</hi> yet the old <hi>use of proclaiming Acts and Ordinances</hi> is conceived very fit and requisite to be restored,
+<label type="milestone">
+                  <seg type="milestoneunit">Reason. </seg>
+               </label> to the end the subject may have ex<g ref="char:EOLhyphen"/>press notice thereof; and that no particular person rich or poor,
+<note place="margin">
+                  <hi>Cook</hi> 4. <hi>p. Inst.</hi>
+               </note> may be overtaken by an intendment of Law, too often to his undoing.</p>
+            <p>I shall adde no more to this rude discourse, which is onely the Results of my private thoughts and ex<g ref="char:EOLhyphen"/>periences; this subiect being since undertaken (though unknown to me) by a reverend Sage of our Law, learned Mr. <hi>Serjeant Sheppard,</hi> whose labors are very great in its reformation; only license me to conclude with my Lord <hi>Cooks</hi> Opinion, That no humane Law within the circuit of the whole world, by infinite de<g ref="char:EOLhyphen"/>grees is so apt and profitable for the honor, peace &amp; prosperous Government of this Common-wealth, as these antient and excellent Laws of England be; some such Exuberancies being lopped off, and some other parts now buryed in Oblivion taken away, fit to be regulated in this blessed flourishing spring of His Highness Justice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
